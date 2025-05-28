@@ -5,7 +5,7 @@ A chatbot for Blaze group chat's that can be added to customer group chat and an
 
 This is a Streamlit web application that [briefly explain what it does — e.g., visualizes Uniswap v3 wallet retention cohorts, tracks trends, etc.].
 
-🚀 Live Demo: [https://your-username-your-repo-name.streamlit.app]
+🚀 Live Demo: (https://inbox-copilot-ai-support-bot-for-d5v0.onrender.com)]
 
 ---
 
